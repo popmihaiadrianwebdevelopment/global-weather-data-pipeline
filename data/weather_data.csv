@@ -1,0 +1,11 @@
+city,country,temperature,humidity,wind_speed,recorded_at
+Mexico City,Mexico,14.9,97,1.6,2026-10-12 13:00:00
+Madrid,Spain,25.6,34,4.4,2026-10-12 13:00:00
+New York,USA,13.4,91,14.8,2026-10-12 13:00:00
+London,United Kingdom,14.8,86,15.1,2026-10-12 13:00:00
+Paris,France,18.7,50,11.9,2026-10-12 13:00:00
+Tokyo,Japan,18.4,80,5.2,2026-10-12 13:00:00
+Bucharest,Romania,15.2,80,4.7,2026-10-12 13:00:00
+Berlin,Germany,13.6,49,12.5,2026-10-12 13:00:00
+Sydney,Australia,21.7,79,10.1,2026-10-12 13:00:00
+Toronto,Canada,15.2,93,7.9,2026-10-12 13:00:00
